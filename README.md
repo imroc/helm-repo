@@ -1,8 +1,8 @@
 ## What it is
-A helm repo for https://charts.imroc.io
+roc's helm repos
 
 ## How to use
 ``` bash
-helm repo add roc https://charts.imroc.io
+helm repo add simple https://charts.imroc.io/simple
 ```
 
